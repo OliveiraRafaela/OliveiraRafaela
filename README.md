@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliveiraRafaela
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently a Web Development – Front-End Design Program student at George Brown College 
 - 📫 How to reach me labdarafaela@gmail.com
 
 <!---
